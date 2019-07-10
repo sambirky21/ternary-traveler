@@ -1,24 +1,109 @@
 {
-  "posts": [
+  "places": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "Italy",
+      "visa_required": false
     },
     {
       "id": 2,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "name": "France",
+      "visa_required": true
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 3,
+      "name": "Switzerland",
+      "visa_required": false
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "interests": [
+    {
+      "name": "Eat Pasta",
+      "description": "Carbing up",
+      "cost": "$2.5",
+      "review": "Delicious",
+      "placeId": 1,
+      "id": 1
+    },
+    {
+      "name": "Drink wine",
+      "description": "Get drunk",
+      "cost": "$2.5",
+      "review": "Gr8",
+      "placeId": 2,
+      "id": 2
+    },
+    {
+      "name": "Sleepin in Vineyard",
+      "description": "Get some rest",
+      "cost": "$2.5",
+      "review": "Feel well rested",
+      "placeId": 3,
+      "id": 3
+    },
+    {
+      "name": "ddd",
+      "description": "ddd",
+      "cost": "ddd",
+      "review": "aaa",
+      "placeId": 3,
+      "id": 5
+    },
+    {
+      "name": "uuuu",
+      "description": "uuuu",
+      "cost": "uuuu",
+      "review": "uuuu",
+      "placeId": 2,
+      "id": 6
+    },
+    {
+      "name": "qqqq",
+      "description": "qqqq",
+      "cost": "qqqq",
+      "review": "qqqq",
+      "placeId": 2,
+      "id": 7
+    },
+    {
+      "name": "eeee",
+      "description": "eeee",
+      "cost": "$2.5",
+      "review": "sssssss",
+      "placeId": 1,
+      "id": 8
+    },
+    {
+      "name": "hadfasdjf",
+      "description": "odgoiewjro",
+      "cost": "$3",
+      "review": "dgoiwejo",
+      "placeId": 2,
+      "id": 9
+    },
+    {
+      "name": "jjk",
+      "description": "oj[ok",
+      "cost": "pjklkj",
+      "review": "pijpjkhp",
+      "placeId": 3,
+      "id": 10
+    },
+    {
+      "name": "jbkjb",
+      "description": "ipij",
+      "cost": "iuguyd568d",
+      "review": "yrsdyhboh",
+      "placeId": 2,
+      "id": 11
+    },
+    {
+      "name": "new",
+      "description": "new",
+      "cost": "new",
+      "review": "new",
+      "placeId": 1,
+      "id": 12
+    }
+  ]
 }
