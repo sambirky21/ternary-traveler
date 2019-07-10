@@ -1,0 +1,21 @@
+.placeBox {
+    border: 5px blue solid
+}
+
+.interestLabel {
+    font-weight: bolder;
+    text-decoration: underline
+}
+
+.interestName {
+    text-decoration: underline
+}
+
+.interest {
+    border: 1px black solid
+}
+
+.form {
+    display: flex;
+    flex-direction: column
+}
