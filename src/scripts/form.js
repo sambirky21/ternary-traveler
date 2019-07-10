@@ -51,6 +51,7 @@ function handleFormSubmit () {
 
 export { renderForm }
 
+// Tried to use this to connect Places to Interests
 // getPlaces().then(stuff => {
 //     if (stuff) {
 //         stuff.id === parseInt(placeID.value)
